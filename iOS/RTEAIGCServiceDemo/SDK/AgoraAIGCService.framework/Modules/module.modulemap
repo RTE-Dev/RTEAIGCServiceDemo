@@ -1,0 +1,6 @@
+framework module AgoraAIGCService {
+  umbrella header "AgoraAIGCService-umbrella.h"
+
+  export *
+  module * { export * }
+}

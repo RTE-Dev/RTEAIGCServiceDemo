@@ -1,0 +1,113 @@
+# Xcode
+.DS_Store
+*.swp
+*.xcuserstate
+*.moved-aside
+*.xcuserdatad
+*.xcscmblueprint
+!default.mode1v3
+!default.mode2v3
+!default.pbxuser
+
+# Build generated
+build/
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Individual Xcode iOS device targets
+*.ipa
+*.app
+*.app.dSYM.zip
+*.dSYM
+
+# Other
+*.mode1v3
+*.mode2v3
+*.pbxuser
+!*.xccheckout
+!*.xccheckoutdrivedata
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Swift Package Manager
+Packages/
+.swiftpm/
+.build/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/docs
+
+# Xcode
+*.xcodeproj/project.xcworkspace/
+*.xcworkspace/xcuserdata/
+*.xcworkspace/xcuserdata/**/*
+*.xcodeproj/xcuserdata/
+*.xcodeproj/xcuserdata/**/*
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/**/*
+xcuserdata/
+profile
+.idea/
+.xcodeproj/project.xcworkspace/xcuserdata/
+
+# Xcode IDE
+xcuserdata/
+
+# Xcode Archives
+xcarchive
+
+# Test builds
+test.xcarchive
+
+# App packaging
+.xcarchive
+
+# iOS DeviceSupport generated content
+DeviceSupport/
+
+# App Packaging
+.xcarchive
+
+# Firebase
+GoogleService-Info.plist
+GoogleService-Info-*.plist
+GoogleService-Info-**.plist
+
+# Crashlytics
+Crashlytics.framework
+fabric.framework
+
+# Fastlane
+fastlane/Preview.html
+fastlane/report.xml
+
+# Playgrounds
+timeline.xctimeline
+
+# Xcode 8 and earlier
+*.xcworkspace/
+*.xcworkspace/xcuserdata/
+*.xcworkspace/xcuserdata/**/*
+*.xcodeproj/xcuserdata/
+*.xcodeproj/xcuserdata/**/*
+.xcworkspace/
+.xcodeproj/project.xcworkspace/
+.xcworkspace/xcuserdata/
+.xcworkspace/xcuserdata/**/*
+.xcodeproj/xcuserdata/
+.xcodeproj/xcuserdata/**/*
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/**/*
